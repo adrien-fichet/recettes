@@ -6,16 +6,22 @@ body {
 }
 
 .recette {
-    border: 5px solid black;
     padding: 20px;
     margin: 10px;
     border-radius: 20px;
 }
 
 .crepes {
+    border: 5px solid rgb(196, 196, 29);
     background-color: rgb(255, 255, 165);
 }
 
 .bechamel {
+    border: 5px solid rgb(201, 201, 201);
     background-color: whitesmoke;
+}
+
+.poulet {
+    border: 5px solid rgb(189, 123, 37);
+    background-color: rgb(228, 165, 82);
 }
