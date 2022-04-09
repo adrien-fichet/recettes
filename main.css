@@ -2,13 +2,21 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     flex-wrap: wrap;
-    margin: 0px;
+    margin: auto;
+    align-items: flex-start;
+    justify-content: center;
+    width: 400px;
+}
+
+h3 {
+    text-align: center;
 }
 
 .recette {
-    padding: 20px;
+    padding: 15px;
     margin: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
+    width: 400px;
 }
 
 .crepes {
@@ -24,4 +32,14 @@ body {
 .poulet {
     border: 5px solid rgb(189, 123, 37);
     background-color: rgb(228, 165, 82);
+}
+
+.mousse-au-chocolat {
+    border: 5px solid brown;
+    background-color: chocolate;
+}
+
+.tiramisu {
+    border: 5px solid chocolate;
+    background-color: wheat;
 }
