@@ -1,0 +1,15 @@
+{
+  "name": "recettes",
+  "version": "1.0.0",
+  "description": "Une page web toute simple avec des recettes simples à cuisiner (et délicieuses) !",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
