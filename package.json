@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "pug": "^3.0.2"
+  "devDependencies": {
+    "npm-check-updates": "^18.0.1",
+    "pug": "^3.0.3"
   }
 }
